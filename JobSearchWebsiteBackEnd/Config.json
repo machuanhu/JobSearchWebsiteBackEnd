@@ -1,0 +1,8 @@
+{
+  "DbSettings": {
+    "Username": "root",
+    "Password": "123456",
+    "Hostname": "127.0.0.1",
+    "Dbname": "jobsearchwebsite"
+  }
+}
